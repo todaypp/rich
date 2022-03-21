@@ -126,7 +126,7 @@ Rich possède une fonction [inspect](https://rich.readthedocs.io/en/latest/refer
 
 Consultez la [documentation d'inspect](https://rich.readthedocs.io/en/latest/reference/init.html#rich.inspect) pour plus de détails.
 
-## Bibliothèque Rich  
+## Bibliothèque Rich
 Rich contient un certain nombre _d'éléments de rendu_ intégrés que vous pouvez utiliser pour créer une sortie élégante dans votre CLI et vous aider à déboguer votre code.
 
 Cliquez sur les rubriques suivantes pour plus de détails :
