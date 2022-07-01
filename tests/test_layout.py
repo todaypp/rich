@@ -1,4 +1,5 @@
 import sys
+
 import pytest
 
 from rich.console import Console

@@ -31,4 +31,3 @@ The following people have contributed to the development of Rich:
 - [Dennis Brakhane](https://github.com/brakhane)
 - [Michał Górny](https://github.com/mgorny)
 - [Arian Mollik Wasi](https://github.com/wasi-master)
-

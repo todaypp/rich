@@ -1,15 +1,15 @@
 import io
 import sys
 from array import array
-from collections import defaultdict, UserDict
+from collections import UserDict, defaultdict
+from dataclasses import dataclass, field
 from typing import List
 
 import attr
 import pytest
-from dataclasses import dataclass, field
 
 from rich.console import Console
-from rich.pretty import install, Pretty, pprint, pretty_repr, Node, _ipy_display_hook
+from rich.pretty import Node, Pretty, _ipy_display_hook, install, pprint, pretty_repr
 from rich.text import Text
 
 skip_py36 = pytest.mark.skipif(
