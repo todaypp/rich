@@ -1,6 +1,7 @@
 """Tests for the highlighter classes."""
-import pytest
 from typing import List
+
+import pytest
 
 from rich.highlighter import NullHighlighter, ReprHighlighter
 from rich.text import Span, Text
