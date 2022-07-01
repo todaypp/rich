@@ -5,27 +5,27 @@ from time import sleep
 
 import pytest
 
-from rich.progress_bar import ProgressBar
 from rich.console import Console
 from rich.highlighter import NullHighlighter
 from rich.progress import (
     BarColumn,
-    FileSizeColumn,
-    TotalFileSizeColumn,
     DownloadColumn,
-    TransferSpeedColumn,
-    RenderableColumn,
-    SpinnerColumn,
+    FileSizeColumn,
     MofNCompleteColumn,
     Progress,
+    RenderableColumn,
+    SpinnerColumn,
     Task,
+    TaskID,
     TextColumn,
     TimeElapsedColumn,
     TimeRemainingColumn,
-    track,
+    TotalFileSizeColumn,
+    TransferSpeedColumn,
     _TrackThread,
-    TaskID,
+    track,
 )
+from rich.progress_bar import ProgressBar
 from rich.text import Text
 
 
