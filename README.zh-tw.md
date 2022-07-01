@@ -195,7 +195,7 @@ log 方法可用於伺服器上長時間運作的程式，也很適合一般程�
 <details>
 <summary>表格</summary>
 
-Rich 可以用 unicode box 字元繪製彈性的 [表格](https://rich.readthedocs.io/en/latest/tables.html)。格式設定十分多元，包含框線、樣式、儲存格對齊……。 
+Rich 可以用 unicode box 字元繪製彈性的 [表格](https://rich.readthedocs.io/en/latest/tables.html)。格式設定十分多元，包含框線、樣式、儲存格對齊……。
 
 ![table movie](https://github.com/willmcgugan/rich/raw/master/imgs/table_movie.gif)
 

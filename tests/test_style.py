@@ -1,7 +1,7 @@
 import pytest
 
-from rich.color import Color, ColorSystem, ColorType
 from rich import errors
+from rich.color import Color, ColorSystem, ColorType
 from rich.style import Style, StyleStack
 
 
