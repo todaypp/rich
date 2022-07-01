@@ -1,6 +1,6 @@
+import warnings
 from collections.abc import Mapping
 from typing import Any, Optional
-import warnings
 
 from rich.console import JustifyMethod
 
