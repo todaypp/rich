@@ -104,8 +104,9 @@ class Rule(JupyterMixin):
 
 
 if __name__ == "__main__":  # pragma: no cover
-    from rich.console import Console
     import sys
+
+    from rich.console import Console
 
     try:
         text = sys.argv[1]

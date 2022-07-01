@@ -5,8 +5,8 @@ from typing import Optional
 
 # import pytest
 from rich.console import Console
-from rich.text import Text
 from rich.live import Live
+from rich.text import Text
 
 
 def create_capture_console(

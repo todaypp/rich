@@ -14,8 +14,8 @@ from rich.console import (
     Console,
     ConsoleDimensions,
     ConsoleOptions,
-    group,
     ScreenUpdate,
+    group,
 )
 from rich.control import Control
 from rich.measure import measure_renderables
