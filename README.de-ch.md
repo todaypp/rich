@@ -76,7 +76,7 @@ Rich cha i de Python REPL installiert werde so dass irgend e Datestruktuur hübs
 
 ## Console bruchä
 
-Für meh kontrolle öber de Törminäl inhalt, importiär und instanziär e [Console](https://rich.readthedocs.io/en/latest/reference/console.html#rich.console.Console) Objekt. 
+Für meh kontrolle öber de Törminäl inhalt, importiär und instanziär e [Console](https://rich.readthedocs.io/en/latest/reference/console.html#rich.console.Console) Objekt.
 
 ```python
 from rich.console import Console
