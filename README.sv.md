@@ -64,7 +64,7 @@ print("Hello, [bold magenta]World[/bold magenta]!", ":vampire:", locals())
 
 ## Rich REPL
 
-Rich kan installeras i Python REPL, så att varje datastruktur kommer att skrivas ut fint och markeras. 
+Rich kan installeras i Python REPL, så att varje datastruktur kommer att skrivas ut fint och markeras.
 
 ```python
 >>> from rich import pretty
