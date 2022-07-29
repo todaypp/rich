@@ -1,5 +1,5 @@
 from rich.control import Control, strip_control_codes
-from rich.segment import Segment, ControlType
+from rich.segment import ControlType, Segment
 
 
 def test_control():
