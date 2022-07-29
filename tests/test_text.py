@@ -1,10 +1,11 @@
 from io import StringIO
+
 import pytest
 
 from rich.console import Console
-from rich.text import Span, Text
 from rich.measure import Measurement
 from rich.style import Style
+from rich.text import Span, Text
 
 
 def test_span():

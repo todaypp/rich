@@ -1,9 +1,10 @@
 import io
+
+import pytest
+
 from rich.console import Console
 from rich.measure import Measurement
 from rich.panel import Panel
-
-import pytest
 
 tests = [
     Panel("Hello, World", padding=0),
